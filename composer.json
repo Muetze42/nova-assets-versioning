@@ -1,0 +1,27 @@
+{
+    "name": "norman-huth/nova-assets-versioning",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NormanHuth\\NovaAssetsVersioning\\": "src/"
+        },
+        "exclude-from-classmap": [
+            "vendor\\laravel\\nova\\src\\Script.php",
+            "vendor\\laravel\\nova\\src\\Style.php"
+        ],
+        "files": [
+            "nova/Script.php",
+            "nova/Style.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Norman Huth",
+            "homepage": "https://huth.it"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "laravel/nova": "^4.0"
+    }
+}
