@@ -1,6 +1,6 @@
 # Nova Assets Versioning
 
-Many know the problem that after a package update you have to explain to the user that he has to clear the browser cache.
+Many know the problem that after a package update you have to explain to the user that the browser cache has to be cleared.
 
 This package appends the hash of script and style files loaded via `Nova::script()` or `Nova::style()`.
 
