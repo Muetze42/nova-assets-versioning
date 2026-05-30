@@ -1,3 +1,13 @@
+## 📦 Archived
+
+This repository is archived and no longer maintained.
+
+If you offer, maintain, or know of an actively maintained alternative to this project, please contact me at **[maintainers@huth.it](mailto:maintainers@huth.it)**.
+
+If the alternative references this repository as its source, inspiration, predecessor, or migration path, I may list it here so existing users can find a maintained replacement.
+
+---
+
 # Nova Assets Versioning
 
 Many know the problem that after a package update you have to explain to the user that the browser cache has to be cleared.
